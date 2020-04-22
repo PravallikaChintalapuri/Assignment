@@ -1,7 +1,7 @@
 from room_finder import find_closest_meeting_room
 
 """
-This is a test file, which currently has 8 test cases, you can add as per your convenience.
+This is a test file, which currently has 8 test cases.
 """
 
 
